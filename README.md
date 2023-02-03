@@ -4,6 +4,8 @@
 - 🏫 I'm software engineer student at Ural Federal University | IRIT-RTF faculty
 - ✉️ You can shoot me an email at s.karmatsky@gmail.com
 
+## 🤝 Connect with me
+TG: @SKarmatsky
 
 <!--
 **Karmatsky/Karmatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
