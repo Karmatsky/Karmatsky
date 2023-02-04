@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Savely
 
 - 🇷🇺 I live in Yekaterinburg, Russia.
-- 🏫 I'm software engineer student at Ural Federal University | IRIT-RTF faculty
+- 🏫 I'm software engineer student at Ural Federal University | Institute of Radioelectronics and Information Technologies
 - ✉️ You can shoot me an email at s.karmatsky@gmail.com
 
 ## 🤝 Connect with me
