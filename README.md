@@ -13,7 +13,7 @@
 -->
 
 ## 🤝 Connect with me
-TG: @SKarmatsky
+TG: [@SKarmatsky](https://t.me/SKarmatsky)
 
 <!--![Uploading image.png…]()
 
