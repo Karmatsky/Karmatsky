@@ -17,8 +17,8 @@ TG: [@SKarmatsky](https://t.me/SKarmatsky)
 
 ## 📊 My statistics 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karmatsky&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karmatsky&theme=default)
 
 <!--![Uploading image.png…]()
 
