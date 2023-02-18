@@ -15,6 +15,8 @@
 ## 🤝 Connect with me
 TG: [@SKarmatsky](https://t.me/SKarmatsky)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
+
 <!--![Uploading image.png…]()
 
 **Karmatsky/Karmatsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
