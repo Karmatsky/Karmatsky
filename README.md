@@ -15,7 +15,7 @@
 ## 🤝 Connect with me
 TG: [@SKarmatsky](https://t.me/SKarmatsky)
 
-## My stat
+## 📊 My statistics 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
 
 <!--![Uploading image.png…]()
