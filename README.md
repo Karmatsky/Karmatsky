@@ -14,6 +14,7 @@
 
 ## 🤝 Connect with me
 Telegram: [@SKarmatsky](https://t.me/SKarmatsky)
+VK: vk.com/skkingg
 
 ## 📊 My statistics 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
