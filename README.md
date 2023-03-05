@@ -13,7 +13,7 @@
 -->
 
 ## 🤝 Connect with me
-TG: [@SKarmatsky](https://t.me/SKarmatsky)
+Telegram: [@SKarmatsky](https://t.me/SKarmatsky)
 
 ## 📊 My statistics 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
