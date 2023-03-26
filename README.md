@@ -18,6 +18,9 @@ Telegram: [@SKarmatsky](https://t.me/SKarmatsky)
 ## 📊 My statistics 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karmatsky&theme=default)
 
+## My skill set
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--![Uploading image.png…]()
 
