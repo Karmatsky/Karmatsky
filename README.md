@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **JS, React, Next.js**
 
-- 📫 How to reach me **s.karmatsky@gmail.com**
+- 📫 Reach me at **s.karmatsky@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BKoGz6TUiAaMrpv46-DLBLa6IvdtnPiQ?usp=sharing](https://drive.google.com/drive/folders/1BKoGz6TUiAaMrpv46-DLBLa6IvdtnPiQ?usp=sharing)
+- 📄My CV [https://clck.ru/3P6jbV](https://clck.ru/3P6jbV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
