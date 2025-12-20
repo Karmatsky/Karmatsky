@@ -5,4 +5,4 @@
 
 - 📫 Reach me at **s.karmatsky@gmail.com**
 
-- 📄My CV [https://clck.ru/3P6jbV](https://clck.ru/3P6jbV)
+- 📄My Resume: [https://clck.ru/3P6jbV](https://clck.ru/3P6jbV)
